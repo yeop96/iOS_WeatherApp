@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2713579825EEA14D009D15A3 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2713579725EEA14D009D15A3 /* CustomTableViewCell.swift */; };
 		276F9D5C25EC0750009AB1E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 276F9D5B25EC0750009AB1E7 /* AppDelegate.swift */; };
 		276F9D5E25EC0750009AB1E7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 276F9D5D25EC0750009AB1E7 /* SceneDelegate.swift */; };
 		276F9D6025EC0750009AB1E7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 276F9D5F25EC0750009AB1E7 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2713579725EEA14D009D15A3 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		276F9D5825EC0750009AB1E7 /* Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		276F9D5B25EC0750009AB1E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		276F9D5D25EC0750009AB1E7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				276F9D5D25EC0750009AB1E7 /* SceneDelegate.swift */,
 				276F9D5F25EC0750009AB1E7 /* ViewController.swift */,
 				276F9D6125EC0750009AB1E7 /* Main.storyboard */,
+				2713579725EEA14D009D15A3 /* CustomTableViewCell.swift */,
 				276F9D6425EC0753009AB1E7 /* Assets.xcassets */,
 				276F9D6625EC0753009AB1E7 /* LaunchScreen.storyboard */,
 				276F9D6925EC0753009AB1E7 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				276F9D6025EC0750009AB1E7 /* ViewController.swift in Sources */,
 				276F9D5C25EC0750009AB1E7 /* AppDelegate.swift in Sources */,
+				2713579825EEA14D009D15A3 /* CustomTableViewCell.swift in Sources */,
 				276F9D5E25EC0750009AB1E7 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
